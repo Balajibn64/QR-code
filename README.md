@@ -23,8 +23,8 @@ This is my solution to the [QR Code Component Challenge on Frontend Mentor](http
 
 ### Links  
 
-- **Solution URL:** [Add your solution URL here](https://your-solution-url.com)  
-- **Live Site URL:** [Add your live site URL here](https://balajibn64.github.io/QR-code/)  
+- **Solution URL:** (https://your-solution-url.com)  
+- **Live Site URL:** (https://balajibn64.github.io/QR-code/)  
 
 ## My Process  
 
@@ -74,7 +74,7 @@ Moving forward, I want to:
 
 ## Author  
 
-- **Frontend Mentor Profile:** [@yourusername](https://www.frontendmentor.io/profile/Balajibn64)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/balaji64/)  
-- **GitHub:** [Your GitHub Profile](https://github.com/Balajibn64)  
+- **Frontend Mentor Profile:** [@Balajibn64](https://www.frontendmentor.io/profile/Balajibn64)  
+- **LinkedIn:** [Balaji Narayanan](https://www.linkedin.com/in/balaji64/)  
+- **GitHub:** [Balajibn64](https://github.com/Balajibn64)  
 
